@@ -43,7 +43,7 @@ dependencies {
     compile 'com.squareup.okhttp:okhttp:2.3.0'
 
     // MQTT
-    compile 'org.fusesource.mqtt-client:mqtt-client-java1.4-uber:1.10'
+    compile 'org.fusesource.mqtt-client:mqtt-client:1.10'
 
     // Bean
     compile 'nl.littlerobots.bean:beanlib:0.9.2'
